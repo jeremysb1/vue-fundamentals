@@ -1,1 +1,3 @@
-# vue-fundamentals
+# Vue Fundamentals
+
+Learning all things Vue.
