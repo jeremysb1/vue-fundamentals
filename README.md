@@ -1,3 +1,3 @@
 # Vue Fundamentals
 
-All things Vue.
+Learning all things Vue.
